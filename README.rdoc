@@ -1,5 +1,7 @@
 == README
 
+Have not yet been able to deploy to Heroku due to authorization issues (Don't have my own laptop)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
