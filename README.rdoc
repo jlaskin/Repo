@@ -1,6 +1,9 @@
 == README
 Made a homepage and updated the gemfile.
-Had computer issues, so couldn't submit this on time, but spoke to Jenny, and she said I shouldn't lose points.
+Had computer issues, so couldn't submit this on time, but spoke to Jenny, and she said I shouldn't lose points for lateness. 
+I completed this assignment using Jenny's computer, so if Github lists her as the author for this, that is the reason.
+
+Heroku link: http://fast-hollows-6127.herokuapp.com/
 
 
 <tt>rake doc:app</tt>.
